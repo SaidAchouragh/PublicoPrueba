@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "calc-react-said",
+    "react-calculator": "calc-react-said"
+  }
+}
