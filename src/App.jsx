@@ -26,7 +26,7 @@ const items = words(stack, /[^-^+^*^/]+/g) // esto se usa para que se nos muestr
 const value = items.length > 0 ? items[items.length-1] : "0"
 
  return (
-<main className='react-calculator'> Otro cambio Calc app ###!!
+<main className='react-calculator'> Otro cambio Calculadora app
 
     <Result value={ value
     // con esto hace que solo se muestre  uno de los sumandos en la calc y no ambos, si queremos tener ambos
