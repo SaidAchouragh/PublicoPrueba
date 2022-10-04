@@ -5,3 +5,4 @@ sonar.sourceEncoding=UTF-8
 sonar.language=js
 sonar.sources=src
 sonar.exclusion=/*.css
+sonar.host.url=http://localhost:9000
